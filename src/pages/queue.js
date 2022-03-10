@@ -267,7 +267,7 @@ const Index = () => {
                     pattern="^(8|9)(\d{7})$"
                     maxLength="8"
                     minLength="8"
-                    required
+                    //required
                     title="Mobile number should be an 8 digit Singapore number i.e. 8xxxxxxx"
                   />
                 </>}
