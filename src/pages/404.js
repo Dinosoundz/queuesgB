@@ -42,7 +42,7 @@ const error404 = () => {
           </Center>
           <Box textAlign="center">
             <Heading textStyle="display3" my={4}>
-              {t("we-cant-seem-to-find-the-page-you-are-looking-for")}
+              {t("we-cant-seem-to-find-the-page-you-are-looking-forz")}
             </Heading>
             <Button
               bgColor="primary.500"
